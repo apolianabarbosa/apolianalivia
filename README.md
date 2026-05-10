@@ -1,5 +1,5 @@
-<div align="center">
- <h1>Apoliana Lívia 
+# Apoliana Lívia 
+**`Backend Developer`**
 
 <div align="center">
   <a href = "mailto:apolianalivia.20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,6 +15,6 @@
 <hr>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=apolianalivia&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apolianalivia&radius=16&theme=vue&area=true&order=5&bg_color=Black&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=apolianabarbosa&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apolianabarbosa&radius=16&theme=ocean_dark&area=true&order=5&bg_color=Black&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
